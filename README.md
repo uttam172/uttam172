@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uttam Dobariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400px" src="https://pin.it/3bmrD0UBF">
+<img align="right" alt="Coding" width="400px" src="[https://pin.it/3bmrD0UBF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw2bgMObbTkoftcep3MqxwO7&ust=1713419682327000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjV5fbHyIUDFQAAAAAdAAAAABAJ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttam172&label=Profile%20views&color=0e75b6&style=flat" alt="uttam172" /> </p>
 
