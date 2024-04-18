@@ -1,4 +1,4 @@
-   ![logo](uttam.gif)
+   ![logo](uttam-space.png)
 
 <h1 align="center">Hi 👋, I'm Uttam Dobariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
