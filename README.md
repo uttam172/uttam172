@@ -1,4 +1,4 @@
-   ![logo](uttam-space1.png)
+![](uttam-space1.png)
 
 <h1 align="center">Hi 👋, I'm Uttam</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
