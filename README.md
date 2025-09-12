@@ -24,10 +24,10 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
-<a href="https://twitter.com/uttam17_" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-<a href="https://linkedin.com/in/uttamdobariya" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://instagram.com/ut.t.am" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<p align="left">
+<a href="https://twitter.com/uttam17_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"  style="margin: 0 8px;" /></a>
+<a href="https://linkedin.com/in/uttamdobariya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"  style="margin: 0 8px;" /></a>
+<a href="https://instagram.com/ut.t.am" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"  style="margin: 0 8px;" /></a>
 </p>
 
 ---
