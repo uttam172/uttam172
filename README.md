@@ -1,5 +1,5 @@
 <!-- Banner / Cover Image -->
-<img src="https://raw.githubusercontent.com/uttam172/uttam172/main/assets/cover.gif" width="100%" />
+<!-- <img src="https://github.com/uttam172/uttam172/blob/main/uttam-space.png" width="100%" /> -->
 
 <h1 align="center">Hi 👋, I'm Uttam</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Future DevSecOps Engineer | Lifelong Learner</h3>
@@ -10,7 +10,7 @@
 </p>
 
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/uttam172/uttam172/main/assets/coding.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/uttam172/uttam172/blob/main/download.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=uttam172&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,9 +25,9 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-<a href="https://twitter.com/uttam17_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-<a href="https://linkedin.com/in/uttamdobariya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://instagram.com/ut.t.am" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="https://twitter.com/uttam17_" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+<a href="https://linkedin.com/in/uttamdobariya" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://instagram.com/ut.t.am" target="_blank" style="margin: 0 8px;"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 ---
@@ -35,37 +35,38 @@
 ### 🛠️ Languages & Tools:
 <p>
   <!-- Frontend -->
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  
-  <br/><br/>
+  <strong style="margin: 0 8px;">Frontend: </strong>
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" /><br/><br/>
   
   <!-- Frameworks & Libraries -->
-  <strong>Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
-  
-  <br/><br/>
+  <strong style="margin: 0 8px;">Frameworks & Libraries: </strong>
+  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=angular" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" /><br/><br/>
   
   <!-- Backend -->
-  <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  
-  <br/><br/>
+  <strong style="margin: 0 8px;">Backend: </strong>
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=express" /><br/><br/>
 
   <!-- Databases -->
-  <strong>Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  
-  <br/><br/>
+  <strong style="margin: 0 8px;">Databases: </strong>
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br/><br/>
 
   <!-- Version Control -->
-  <strong>Version Control</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  
-  <br/><br/>
+  <strong style="margin: 0 8px;">Version Control: </strong>
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" /><br/><br/>
 
   <!-- Programming Languages -->
-  <strong>Programming Languages</strong><br/>
+  <strong style="margin: 0 8px;">Programming Languages: </strong>
+  <img src="https://skillicons.dev/icons?i=cpp,python" style="margin: 0 8px;" />
   <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
 
@@ -73,5 +74,5 @@
 
 ### 🎯 Quote to Inspire:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
