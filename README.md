@@ -33,29 +33,36 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,cpp,python" />
-</p>
 <p>
   <!-- Frontend -->
   <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  
+  <br/><br/>
   
   <!-- Frameworks & Libraries -->
   <strong>Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
+  
+  <br/><br/>
   
   <!-- Backend -->
   <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  
+  <br/><br/>
 
   <!-- Databases -->
   <strong>Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  
+  <br/><br/>
 
   <!-- Version Control -->
   <strong>Version Control</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  
+  <br/><br/>
 
   <!-- Programming Languages -->
   <strong>Programming Languages</strong><br/>
