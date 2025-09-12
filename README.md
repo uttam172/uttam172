@@ -39,29 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats & Streak:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttam172&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam172&theme=radical" height="165"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uttam172&theme=onedark&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
-### 🔥 Recent Activity:
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam172&theme=react-dark" />
-</p>
-
----
-
 ### 🎯 Fun Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
