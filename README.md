@@ -66,8 +66,8 @@
 
   <!-- Programming Languages -->
   <strong style="margin: 0 8px;">Programming Languages: </strong>
-  <img src="https://skillicons.dev/icons?i=cpp,python" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 8px;" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
