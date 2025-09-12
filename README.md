@@ -25,48 +25,48 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://twitter.com/uttam17_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"  style="margin: 0 8px;" /></a>
-<a href="https://linkedin.com/in/uttamdobariya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"  style="margin: 0 8px;" /></a>
-<a href="https://instagram.com/ut.t.am" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"  style="margin: 0 8px;" /></a>
+<a href="https://twitter.com/uttam17_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"  style="margin: 0 8px;" /></a> &nbsp;
+<a href="https://linkedin.com/in/uttamdobariya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"  style="margin: 0 8px;" /></a> &nbsp;
+<a href="https://instagram.com/ut.t.am" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"  style="margin: 0 8px;" /></a> &nbsp;
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Skills:
 <p>
   <!-- Frontend -->
-  <strong style="margin: 0 8px;">Frontend: </strong>
-  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" />
+  ###  Frontend:
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=ts" /><br/><br/>
   
   <!-- Frameworks & Libraries -->
-  <strong style="margin: 0 8px;">Frameworks & Libraries: </strong>
-  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=angular" style="margin: 0 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 8px;" />
+  ###  Frameworks & Libraries:
+  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 8px;" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 0 8px;" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" style="margin: 0 8px;" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" /><br/><br/>
   
   <!-- Backend -->
-  <strong style="margin: 0 8px;">Backend: </strong>
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 8px;" />
+  ###  Backend:
+  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=express" /><br/><br/>
 
   <!-- Databases -->
-  <strong style="margin: 0 8px;">Databases: </strong>
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 8px;" />
+  ###  Databases:
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" /><br/><br/>
 
   <!-- Version Control -->
-  <strong style="margin: 0 8px;">Version Control: </strong>
-  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 8px;" />
+  ###  Version Control:
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=github" /><br/><br/>
 
   <!-- Programming Languages -->
-  <strong style="margin: 0 8px;">Programming Languages: </strong>
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 8px;" />
+  ###  Programming Languages:
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
