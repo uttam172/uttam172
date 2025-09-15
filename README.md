@@ -33,9 +33,7 @@
 ---
 
 ### 🛠️ Skills:
-<p>
-  <!-- Frontend -->
-  ###  Frontend:
+<p>###  Frontend:
   <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" /> &nbsp;
