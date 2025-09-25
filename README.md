@@ -10,7 +10,7 @@
 </p>
 
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://github.com/uttam172/uttam172/blob/main/download.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/uttam172/uttam172/blob/main/VibeCode.png" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=uttam172&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
