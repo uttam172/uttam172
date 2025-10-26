@@ -35,7 +35,7 @@
 ### 🛠️ Skills:
 <p>
   
-  ###  Frontend:
+  ###  FronEnd:
   <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" /> &nbsp;
@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" /><br/><br/>
   
   <!-- Backend -->
-  ###  Backend:
+  ###  BackEnd:
   <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 8px;" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=express" /><br/><br/>
 
