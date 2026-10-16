@@ -34,42 +34,30 @@
 
 ### 🛠️ Skills:
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
-**⚛️ Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
-
-**🖥️ Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-**🔧 Tools & Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-**💻 Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,python" />
-
-</td>
-</tr>
+<table width="200%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎨 Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="42" />
+      <br/><br/>
+      <strong>⚛️ Frameworks & Libraries</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" height="42" />
+      <br/><br/>
+      <strong>🖥️ Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>🗄️ Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="42" />
+      <br/><br/>
+      <strong>🔧 Tools & Version Control</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github" height="42" />
+      <br/><br/>
+      <strong>💻 Programming Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,python" height="42" />
+    </td>
+  </tr>
 </table>
-</div>
 
 ---
 
