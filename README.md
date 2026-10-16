@@ -37,7 +37,8 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>🎨 Frontend ________________________________________________________</strong><br/><br/>
+      <strong>________________________________________________________________________________________</strong>
+      <strong>🎨 Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="42" />
       <br/><br/>
       <strong>⚛️ Frameworks & Libraries</strong><br/><br/>
@@ -47,7 +48,8 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
     </td>
     <td width="50%" valign="top">
-      <strong>🗄️ Databases ________________________________________________________</strong><br/><br/>
+      <strong>________________________________________________________________________________________</strong>
+      <strong>🗄️ Databases</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="42" />
       <br/><br/>
       <strong>🔧 Tools & Version Control</strong><br/><br/>
