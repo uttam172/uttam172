@@ -33,42 +33,30 @@
 ---
 
 ### 🛠️ Skills:
-<p>
-  
-  ###  FronEnd:
-  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" /><br/><br/>
-  
-  <!-- Frameworks & Libraries -->
-  ###  Frameworks & Libraries:
-  <img src="https://skillicons.dev/icons?i=react" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" /><br/><br/>
-  
-  <!-- Backend -->
-  ###  BackEnd:
-  <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /><br/><br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+⚛️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
 
-  <!-- Databases -->
-  ###  Databases:
-  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br/><br/>
+🖥️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+<td width="50%" valign="top">
 
-  <!-- Version Control -->
-  ###  Version Control:
-  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" /><br/><br/>
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-  <!-- Programming Languages -->
-  ###  Programming Languages:
-  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 8px;" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+🔧 Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</td>
+  </tr>
+</table>
 
 ---
 
