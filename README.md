@@ -34,7 +34,7 @@
 
 ### 🛠️ Skills:
 
-<table width="200%">
+<table width="800">
   <tr>
     <td width="50%" valign="top">
       <strong>🎨 Frontend</strong><br/><br/>
