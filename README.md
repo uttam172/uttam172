@@ -36,8 +36,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>________________________________________________________________________________________</strong>
+    <td width="50%" valign="top">      
       <strong>🎨 Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="42" />
       <br/><br/>
@@ -46,9 +45,9 @@
       <br/><br/>
       <strong>🖥️ Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
+      <strong>______________________________________________________________</strong>
     </td>
     <td width="50%" valign="top">
-      <strong>________________________________________________________________________________________</strong>
       <strong>🗄️ Databases</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="42" />
       <br/><br/>
@@ -57,6 +56,7 @@
       <br/><br/>
       <strong>💻 Programming Languages</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=cpp,python" height="42" />
+      <strong>______________________________________________________________</strong>
     </td>
   </tr>
 </table>
