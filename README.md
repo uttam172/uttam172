@@ -68,7 +68,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
 
----
+<!-- ---
 
 ### 🐍 Watch My Contributions Get Eaten!
 
@@ -82,4 +82,4 @@
       src="https://raw.githubusercontent.com/uttam172/uttam172/output/github-snake.svg"
       width="100%" />
   </picture>
-</p>
+</p> -->
