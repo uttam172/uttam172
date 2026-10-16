@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <strong>🎨 Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="42" />
       <br/><br/>
@@ -46,7 +46,7 @@
       <strong>🖥️ Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
     </td>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <strong>🗄️ Databases</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="42" />
       <br/><br/>
