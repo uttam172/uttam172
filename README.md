@@ -67,3 +67,19 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
+
+---
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/uttam172/uttam172/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/uttam172/uttam172/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/uttam172/uttam172/output/github-snake.svg"
+      width="100%" />
+  </picture>
+</p>
